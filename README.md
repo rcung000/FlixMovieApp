@@ -14,7 +14,7 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-* [] Views should be responsive for both landscape/portrait mode.
+~~* [] Views should be responsive for both landscape/portrait mode.~~
 
 Here's a walkthrough of implemented user stories:
 
