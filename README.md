@@ -18,7 +18,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='' title='View Movies' width=''/>
+<img src='https://github.com/rcung000/FlixMovieAppRepo/blob/main/FlixMovieApp_ViewMovies.gif' title='View Movies' width=''/>
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
